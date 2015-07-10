@@ -1,0 +1,26 @@
+{
+  "name": "angular-form-validation-helper",
+  "version": "1.0.0",
+  "homepage": "https://github.com/david-byng/angular-form-validation-helper",
+  "authors": [
+    "David Godfrey <david@byng.co>"
+  ],
+  "description": "",
+  "main": "src/form-validity-helper.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "logdown-angular-bridge": "~0.0.1"
+  },
+  "devDependencies": {
+    "angular": "~1.4.2",
+    "karma-test-helpers": "~0.0.2",
+    "angular-mocks": "~1.4.2"
+  }
+}
